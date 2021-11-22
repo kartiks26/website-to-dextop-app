@@ -1,0 +1,13 @@
+/tutorial-darwin-x86_64
+/tutorial-linux-arm64
+/tutorial-linux-ia32
+/tutorial-linux-x64
+/tutorial-darwin-x86_64
+/tutorial-mas-x64
+/tutorial-darwin-x64
+/tutorial-win32-x64
+/tutorial-win32-ia32
+/tutorial-win32-arm64
+/node_modules
+
+
